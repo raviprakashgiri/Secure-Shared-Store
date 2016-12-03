@@ -1,9 +1,4 @@
-# CS6238-Distributed-System
-# README.md
 # CS6238, Project II, Distributed System
-
-#Change the paths from cert.sh file [IMPORTANT]
-
 
 Here are step by step instructions for compiling and running this program:
 1) Install OPENSSL Library, if not already installed:
